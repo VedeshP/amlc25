@@ -1,0 +1,10 @@
+pandas
+numpy
+scipy
+scikit-learn
+xgboost
+lightgbm
+tensorflow
+sentence-transformers
+transformers
+huggingface-hub
